@@ -7,7 +7,7 @@
   <script src="https://openstreetmap.org/openlayers/OpenStreetMap.js"></script>
   <script type="text/javascript">
     function drawmap() {
-      var lon = 6.641389, lat = 49.756667, zoom = 7;
+      var lon = 13.457619, lat = 52.515275, zoom = 14;
       map = new OpenLayers.Map('map', {
         projection: new OpenLayers.Projection("EPSG:900913"),
         displayProjection: new OpenLayers.Projection("EPSG:4326"),
