@@ -14,8 +14,8 @@
         controls: [new OpenLayers.Control.Navigation(),
                    new OpenLayers.Control.LayerSwitcher(),
                    new OpenLayers.Control.PanZoomBar()],
-        maxExtent: new OpenLayers.Bounds(-20037508.34,-20037508.34,
-                                          20037508.34, 20037508.34),
+        maxExtent: new OpenLayers.Bounds(-20037508.35,-20037508.34,
+                                          20037508.35, 20037508.34),
         numZoomLevels: 18,
         units: 'meters'
       });
